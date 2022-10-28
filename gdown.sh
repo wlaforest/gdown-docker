@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# helper script to do the docker run for gdown utility
+# helper script to do the docker run for gdown utility from a host system.
 #
 # First parameter is the google drive ID for the file you want to download
 # Second parameter is the destination drive for the file
